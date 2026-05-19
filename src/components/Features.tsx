@@ -31,7 +31,7 @@ const features = [
     icon: Cpu,
     title: "Personalized AI Tutor",
     description: "Stuck on a concept? Our built-in AI tutor explains anything in seconds.",
-    color: "text-electric-blue",
+    color: "text-cyan-glow",
     comingSoon: true
   },
   {
@@ -63,7 +63,7 @@ export default function Features() {
       <div className="max-w-7xl mx-auto">
         <div className="flex flex-col md:flex-row md:items-end justify-between mb-16 gap-8">
           <div className="max-w-2xl">
-            <div className="text-electric-blue font-bold text-sm uppercase tracking-widest mb-4 flex items-center gap-2">
+            <div className="text-cyan-glow font-bold text-sm uppercase tracking-widest mb-4 flex items-center gap-2">
               <Medal className="w-4 h-4" />
               Dominate Every Subject
             </div>
@@ -83,8 +83,8 @@ export default function Features() {
             viewport={{ once: true }}
             className="flex items-center gap-4 bg-white/5 p-4 rounded-2xl border border-white/10"
           >
-            <div className="w-12 h-12 bg-electric-blue/20 rounded-xl flex items-center justify-center">
-              <Zap className="w-6 h-6 text-electric-blue" />
+            <div className="w-12 h-12 bg-cyan-glow/20 rounded-xl flex items-center justify-center">
+              <Zap className="w-6 h-6 text-cyan-glow" />
             </div>
             <div className="text-sm">
               <div className="font-bold">Lightning Fast</div>

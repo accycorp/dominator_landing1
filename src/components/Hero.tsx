@@ -5,7 +5,7 @@ export default function Hero() {
   return (
     <section className="relative pt-32 pb-20 px-6 md:px-12 overflow-hidden">
       {/* Decorative background elements */}
-      <div className="absolute top-1/4 -left-20 w-96 h-96 bg-electric-blue/10 rounded-full blur-[120px] pointer-events-none" />
+      <div className="absolute top-1/4 -left-20 w-96 h-96 bg-cyan-glow/10 rounded-full blur-[120px] pointer-events-none" />
       <div className="absolute bottom-1/4 -right-20 w-80 h-80 bg-cta-orange/10 rounded-full blur-[100px] pointer-events-none" />
 
       <div className="max-w-7xl mx-auto grid grid-cols-1 lg:grid-cols-12 gap-12 items-center">
@@ -48,7 +48,7 @@ export default function Hero() {
             className="flex flex-col sm:flex-row items-center gap-6"
           >
             <motion.a
-              href="https://t.me/Dominator7_bot"
+              href="https://t.me/Dominator7_bot/register"
               target="_blank"
               rel="noopener noreferrer"
               whileHover={{ scale: 1.05 }}
