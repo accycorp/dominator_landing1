@@ -1,0 +1,6 @@
+{
+  "name": "Dominator Study",
+  "description": "A modern, high-converting landing page for the Dominator Study Telegram Mini App, designed to help students ace their exams.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
