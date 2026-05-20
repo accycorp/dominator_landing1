@@ -48,7 +48,7 @@ export default function Hero() {
             className="flex flex-col sm:flex-row items-center gap-6"
           >
             <motion.a
-              href="https://t.me/Dominator7_bot/register"
+              href="https://t.me/Dominator_support"
               target="_blank"
               rel="noopener noreferrer"
               whileHover={{ scale: 1.05 }}
